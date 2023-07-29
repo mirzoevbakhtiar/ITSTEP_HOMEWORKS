@@ -1,0 +1,3 @@
+C:/Users/bakhaalle/CLionProjects/HW15.06/cmake-build-debug/CMakeFiles/HW15_06.dir
+C:/Users/bakhaalle/CLionProjects/HW15.06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bakhaalle/CLionProjects/HW15.06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
