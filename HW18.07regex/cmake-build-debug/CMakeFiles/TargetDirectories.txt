@@ -1,0 +1,3 @@
+C:/Users/bakhaalle/CLionProjects/HW18.07regex/cmake-build-debug/CMakeFiles/HW18_07regex.dir
+C:/Users/bakhaalle/CLionProjects/HW18.07regex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bakhaalle/CLionProjects/HW18.07regex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
