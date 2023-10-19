@@ -1,3 +1,0 @@
-C:/Users/bakhaalle/CLionProjects/02.04/cmake-build-debug/CMakeFiles/02_04.dir
-C:/Users/bakhaalle/CLionProjects/02.04/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bakhaalle/CLionProjects/02.04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
