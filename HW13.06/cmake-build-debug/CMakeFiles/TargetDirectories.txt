@@ -1,3 +1,0 @@
-C:/Users/bakhaalle/CLionProjects/HW13.06/cmake-build-debug/CMakeFiles/HW13_06.dir
-C:/Users/bakhaalle/CLionProjects/HW13.06/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bakhaalle/CLionProjects/HW13.06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
