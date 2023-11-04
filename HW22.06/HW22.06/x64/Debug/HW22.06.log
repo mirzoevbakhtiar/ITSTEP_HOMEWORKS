@@ -1,0 +1,18 @@
+﻿  HW22.06.cpp
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(109,29): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(107,2): message : во время компиляции функции-члена класс шаблон "DeQueue<int>::DeQueue(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(213,23): message : см. первую ссылку на "DeQueue<int>::DeQueue" в "main"
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(213,23): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DeQueue<int>"
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(22,29): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(20,2): message : во время компиляции функции-члена класс шаблон "Queue<int>::Queue(std::initializer_list<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(207,19): message : см. первую ссылку на "Queue<int>::Queue" в "main"
+C:\Users\bakhaalle\source\repos\HW22.06\HW22.06\HW22.06.cpp(207,19): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Queue<int>"
+  HW22.06.vcxproj -> C:\Users\bakhaalle\source\repos\HW22.06\x64\Debug\HW22.06.exe
